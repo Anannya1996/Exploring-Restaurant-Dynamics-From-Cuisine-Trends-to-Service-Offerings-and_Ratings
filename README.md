@@ -9,8 +9,6 @@ This project analyzes a dataset of restaurants to gain insights into various asp
   - [Level 1](#level-1)
   - [Level 2](#level-2)
   - [Level 3](#level-3)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
